@@ -2,26 +2,30 @@
 
 ## My Name
 
-Write your name.
+ARJUN K K
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+- How to build programming logic.
+- What a PRD (Product Requirements Document) is.
+- What software development is.
 
 ## Why I Selected Java
 
-Write your reason in your own words.
+I selected Java because I want to build large-scale applications, and I have a basic understanding of Java.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to become a Software Developer.
 
 ## What I Understood Today
 
-Complete these sentences:
+Programming means: Giving instructions to a computer to perform specific tasks.
 
-Programming means:
+Java is: A programming language used to build software applications.
 
-Java is:
+In this track, I will learn: Java programming, object-oriented programming, problem-solving, and software development using Java.
 
-In this track, I will learn:
+## Today I Learned
+
+I learned how to use Git and GitHub for version control and collaboration.
