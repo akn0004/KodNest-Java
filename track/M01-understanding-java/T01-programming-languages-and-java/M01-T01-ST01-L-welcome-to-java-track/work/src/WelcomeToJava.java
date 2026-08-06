@@ -3,11 +3,10 @@ public class WelcomeToJava {
 
     public static void main(String[] args) {
         //Write your code here
-        System.out.println("Welcome to thr java Track");
-        System.out.println("I already know how to build programming logic");
-        System.out.println("Now I am learning how to express that logic using java");
-        System.out.println("My name is Arjun");
-        System.out.println("Age is 22");
-
+        System.out.println("Welcome to java Track.");
+        System.out.println("My name is Arjun.");
+        System.out.println("My goal is become a java developer.");
+        System.out.println("I selected java because I want to build a large applications.");
     }
+
 }
