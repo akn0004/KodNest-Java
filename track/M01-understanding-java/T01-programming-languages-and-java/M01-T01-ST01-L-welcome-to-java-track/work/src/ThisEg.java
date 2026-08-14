@@ -1,5 +1,5 @@
 
-class Student {
+public class Student {
 
     String name;
     int age;
@@ -12,22 +12,17 @@ class Student {
     }
 
     void display() {
-        System.out.println(name "\n"+ " - " + age + " - " + height
-
-
-
-    );
-        
-
+        System.out.println(name);
+        System.out.println(age);
+        System.out.println(height);
     }
-
 }
 
-class StudentApp {
+public class ThisEg {
 
     public static void main(String[] args) {
-        Student std = new Student();
-        std.input("AKN", 22, 5.6);
-        std.display();
+        Student st1 = new Student();
+        st1.input("Arjun", 18, 5.8);
+        st1.display();
     }
 }
